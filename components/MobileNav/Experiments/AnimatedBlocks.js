@@ -2,7 +2,6 @@ import styled from "styled-components";
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { stagger, fadeInUp } from "../animations";
-import remify from "../styles/utils";
 
 const Navigation = styled.nav`
   background: white;
